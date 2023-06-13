@@ -1,4 +1,4 @@
-[![@debanjanc01's Holopin board](https://holopin.io/api/user/board?user=debanjanc01)](https://holopin.io/@debanjanc01)
+[![An image of @debanjanc01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/debanjanc01)](https://holopin.io/@debanjanc01)
 
 <h1>Hello, World</h1>
 
