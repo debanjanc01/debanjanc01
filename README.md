@@ -12,7 +12,7 @@ Building backend systems & automation tools · Writing about observability · Le
 
 ## TL;DR
 
-- 💼 **Senior backend engineer** with experience in Ruby on Rails, MongoDB, and Elasticsearch  
+- 💼 **Senior backend engineer** currently working with Ruby on Rails, MongoDB, and Elasticsearch  
 - ⚙️ Built scalable APIs, automation tools, and distributed systems  
 - ✍️ Writes about monitoring, backend architecture, and developer tooling  
 - 🧠 Believes in learning something new every day  
@@ -43,7 +43,7 @@ Building backend systems & automation tools · Writing about observability · Le
 ## 📌 Projects
 
 - [`letter`](https://github.com/debanjanc01/letter) – Update Postman collections from local files  
-- [`bytecase`](https://github.com/debanjanc01/bytecase) – Handy Java snippets & tooling
+- [`bytecase`](https://github.com/debanjanc01/bytecase) – Handy snippets & tooling
 
 ---
 
